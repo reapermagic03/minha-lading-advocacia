@@ -48,7 +48,7 @@ export default function Services() {
                 className="rounded-[24px] border border-[#ddd2bf] bg-white p-7 text-left transition hover:border-[#b7975f] hover:shadow-[0_18px_50px_rgba(32,24,16,0.08)]"
               >
                 <p className="text-sm font-semibold uppercase tracking-[0.22em] text-[#8a6a2f]">
-                  Atendimento
+                  Clique aqui para atendimento imediato
                 </p>
                 <h3 className="mt-4 text-2xl font-semibold text-[#1a1a1a]">
                   {service.title}
