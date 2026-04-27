@@ -73,7 +73,7 @@ export default function Services() {
             <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(15,15,15,0.05)_0%,rgba(15,15,15,0.42)_45%,rgba(15,15,15,0.84)_100%)]" />
             <div className="absolute bottom-0 left-0 right-0 p-8 text-white">
               <p className="text-sm font-semibold uppercase tracking-[0.24em] text-[#d8bb86]">
-                Atenção Imediata
+                Atenção imediata
               </p>
               <h3 className="mt-4 font-serif text-4xl leading-tight">
                 Golpe do Pix e fraude em operações bancárias feitas por Whatsapp.
