@@ -30,7 +30,7 @@ export default function About() {
             <h2 className="max-w-2xl font-serif text-4xl leading-tight text-[#161616] md:text-5xl">
               Entenda seus direitos, evite prejuízos e tenha orientação jurídica segura desde o primeiro contato.
             </h2>
-            <p className="max-w-2xl text-large leading-8 text-[#4c4c4c]">
+            <p className="max-w-2xl text-base leading-8 text-[#4c4c4c]">
           Atuamos na defesa de consumidores em questões bancárias, com análise técnica e atendimento transparente. 
           Nosso objetivo é esclarecer sua situação, identificar possíveis irregularidades e 
           indicar o melhor caminho jurídico para o seu caso, sempre com responsabilidade e estratégia.
