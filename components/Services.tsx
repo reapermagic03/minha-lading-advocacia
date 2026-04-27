@@ -48,7 +48,7 @@ export default function Services() {
                 className="rounded-[24px] border border-[#ddd2bf] bg-white p-7 text-left transition hover:border-[#b7975f] hover:shadow-[0_18px_50px_rgba(32,24,16,0.08)]"
               >
                 <p className="text-sm font-semibold uppercase tracking-[0.22em] text-[#8a6a2f]">
-                  Clique aqui para atendimento imediato
+                  Clique aqui para atendimento
                 </p>
                 <h3 className="mt-4 text-2xl font-semibold text-[#1a1a1a]">
                   {service.title}
@@ -73,7 +73,7 @@ export default function Services() {
             <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(15,15,15,0.05)_0%,rgba(15,15,15,0.42)_45%,rgba(15,15,15,0.84)_100%)]" />
             <div className="absolute bottom-0 left-0 right-0 p-8 text-white">
               <p className="text-sm font-semibold uppercase tracking-[0.24em] text-[#d8bb86]">
-                Atenção imediata
+                Atenção 
               </p>
               <h3 className="mt-4 font-serif text-4xl leading-tight">
                 Golpe do Pix e fraude em operações bancárias feitas por Whatsapp.
