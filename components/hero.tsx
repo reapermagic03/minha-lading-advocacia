@@ -113,7 +113,7 @@ export default function Hero() {
               <div className="mt-6 grid grid-cols-2 gap-4 border-t border-white/10 pt-6">
                 <div>
                   <p className="text-3xl font-semibold text-[#f5f1ea]">Online</p>
-                  <p className="className="mt-1 text-white/60">
+                  <p className="mt-1 text-white/60">
                     Atendimento Segunda a Sexta de 9:00 ás 18:00
                   </p>
                 </div>
